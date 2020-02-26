@@ -7,6 +7,6 @@
 "min":20200000000,
 "max":20200000005,
 
-"imgShowCell":5
-"imgShowPage":5
+"imgShowCell":5,
+"imgShowPage":4
 }
