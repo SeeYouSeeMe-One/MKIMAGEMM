@@ -6,9 +6,9 @@
 
 "showTitle":"陌开高清美图",
 "min":20200000000,
-"max":20200000005,
+"max":20200000007,
 
-
+"isShowHD":false
 
 "imgShowCellType":5,
 "imgShowPage":6,
@@ -16,8 +16,8 @@
 "imgShowType":2,
 "freeNumber":3,
 
-"imgWatermark":"新浪陌开心扉",
-"imgWatermarkFont":10,
+"imgWatermark":"陌开心扉陌开视频",
+"imgWatermarkFont":8,
 "imgWatermarkWidth":100,
 "imgWatermarkHeight":20,
 "BlurImage1":0,
