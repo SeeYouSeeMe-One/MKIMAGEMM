@@ -14,10 +14,11 @@
 "imgShowPage":4,
 
 "imgShowType":2,
+"freeNumber":5,
 
-"BlurImage1":1,
-"BlurImage2":3,
-"BlurImage3":5,
-"BlurImage4":8
+"BlurImage1":0,
+"BlurImage2":1,
+"BlurImage3":2,
+"BlurImage4":3
 
 }
