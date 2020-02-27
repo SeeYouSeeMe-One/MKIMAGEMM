@@ -1,2 +1,0 @@
-# MKIMAGEMM
-MMiMAGE

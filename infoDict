@@ -10,11 +10,11 @@
 
 
 
-"imgShowCell":5,
-"imgShowPage":4,
+"imgShowCellType":5,
+"imgShowPage":6,
 
 "imgShowType":2,
-"freeNumber":5,
+"freeNumber":3,
 
 "BlurImage1":0,
 "BlurImage2":1,
