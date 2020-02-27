@@ -8,7 +8,7 @@
 "min":20200000000,
 "max":20200000009,
 
-"isShowHD":false,
+"isShowHD":true,
 
 "imgShowCellType":5,
 "imgShowPage":6,
