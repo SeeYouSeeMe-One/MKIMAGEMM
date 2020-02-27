@@ -8,7 +8,7 @@
 "min":20200000000,
 "max":20200000009,
 
-"isShowHD":false
+"isShowHD":false,
 
 "imgShowCellType":5,
 "imgShowPage":6,
@@ -20,6 +20,8 @@
 "imgWatermarkFont":8,
 "imgWatermarkWidth":100,
 "imgWatermarkHeight":20,
+
+
 "BlurImage1":0,
 "BlurImage2":1,
 "BlurImage3":2,
