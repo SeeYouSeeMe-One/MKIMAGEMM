@@ -3,7 +3,7 @@
 "pageNum":5,
 "title1":"每日更新",
 "title2":"精品推荐",
-
+"refresh_header":"有新图片更新",
 
 "alertShowText":"精美图片准备就绪，立即前往吧",
 "showTitle":"陌开高清美图",
@@ -13,7 +13,7 @@
 "isShowHD":true,
 
 "imgShowCellType":5,
-"imgShowPage":6,
+"imgShowPage":2,
 
 "imgShowType":2,
 "freeNumber":3,
@@ -25,8 +25,8 @@
 
 
 "BlurImage1":6,
-"BlurImage2":2,
+"BlurImage2":3,
 "BlurImage3":4,
-"BlurImage4":6
+"BlurImage4":5
 
 }
