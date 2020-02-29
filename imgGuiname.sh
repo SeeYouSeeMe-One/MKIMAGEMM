@@ -20,7 +20,7 @@ saveDoc=/Users/xushiyou/Desktop/saveImg
 baseImgNames=("000" "001" "002" "003" "004" "005")
 
 #  从这个文件夹名称开始
-documentNameNow=20200000000
+documentNameNow=20200000007
 #单个文件夹内记录保存
 timeDocNum=0
 
@@ -49,9 +49,14 @@ imgFileName=${baseImgNames[$timeDocNum]}
 #打印文件夹-文件名字
 echo $documentNameNow"---"$imgFileName
 
-#重命名
-cp $imageFile $saveDoc/$documentNameNow/$imgFileName.jpg
-#cp $imageFile $saveDoc/$documentNameNow/$imgFileName"hd".jpg
+#重命名---原图
+orginImg=$saveDoc/$documentNameNow/$imgFileName
+
+cp $imageFile $orginImg"hd".jpg
+
+cp $imageFile $orginImg.jpg
+#略缩图 280*350
+convert -sample 25%x25% $orginImg.jpg $orginImg.jpg
 
 echo $imageFile"---"$saveDoc/$documentNameNow/$imgFileName.jpg
 
