@@ -1,12 +1,7 @@
 {
 "code": 200,
 
-"title1":"每日更新",
-"title2":"精品推荐",
-"refresh_header":"有新图片更新",
 
-"alertShowText":"精美图片准备就绪，立即前往吧",
-"showTitle":"陌开高清美图",
 "min":20200000000,
 "max":20200000006,
 
@@ -19,7 +14,7 @@
 "imgShowType":2,
 "freeNumber":3,
 
-"imgWatermark":"陌开心扉陌开视频",
+
 "imgWatermarkFont":8,
 "imgWatermarkWidth":100,
 "imgWatermarkHeight":20,
@@ -28,6 +23,16 @@
 "BlurImage1":6,
 "BlurImage2":3,
 "BlurImage3":4,
-"BlurImage4":5
+"BlurImage4":5,
 
+"refresh_H_title":"每夜都有更新",
+"refresh_H_content":"动不了了，已经是极限了",
+"refresh_F_title":"已经是历史根部了",
+"refresh_F_content":"下拉可以获取新纪元图片",
+"refresh_header":"有新图片更新",
+
+
+"imgWatermark":"陌开心扉陌开视频",
+"alertShowText":"精美图片准备就绪，立即前往吧",
+"showTitle":"陌开高清美图"
 }
