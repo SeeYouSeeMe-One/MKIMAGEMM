@@ -9,7 +9,7 @@
 
 "imgShowCellType":5,
 "imgShowPage":6,
-"showCellOfNum":2,
+"showCellOfNum":4,
 
 "imgShowType":2,
 "freeNumber":3,
@@ -20,10 +20,10 @@
 "imgWatermarkHeight":20,
 
 
-"BlurImage1":6,
+"BlurImage1":8,
 "BlurImage2":3,
-"BlurImage3":4,
-"BlurImage4":5,
+"BlurImage3":6,
+"BlurImage4":9,
 
 "refresh_H_title":"每夜都有更新",
 "refresh_H_content":"动不了了，已经是极限了",
