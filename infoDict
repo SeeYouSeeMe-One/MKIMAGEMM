@@ -1,6 +1,6 @@
 {
 "code": 200,
-"pageNum":5,
+
 "title1":"每日更新",
 "title2":"精品推荐",
 "refresh_header":"有新图片更新",
@@ -13,7 +13,8 @@
 "isShowHD":true,
 
 "imgShowCellType":5,
-"imgShowPage":2,
+"imgShowPage":6,
+"showCellOfNum":2,
 
 "imgShowType":2,
 "freeNumber":3,
