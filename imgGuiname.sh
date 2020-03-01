@@ -18,7 +18,7 @@ saveDoc=/Users/xushiyou/Desktop/saveImg
 
 #每个文件夹内的图片内容、个数
 baseImgNames=("000" "001" "002" "003" "004" "005")
-
+sheding=005
 #  从这个文件夹名称开始
 documentNameNow=20200000007
 #单个文件夹内记录保存
@@ -37,11 +37,13 @@ echo "📁${creat0}---已经存在"
 fi
 
 #遍历当前文件夹下的图片
-for imageFile in $changeDoc/*
+for imageFile in $changeDoc/*.jpg
 
 do
 
 echo $imageFile"当前执行的文件----"
+
+
 
 #图片新名称
 imgFileName=${baseImgNames[$timeDocNum]}
@@ -54,9 +56,10 @@ orginImg=$saveDoc/$documentNameNow/$imgFileName
 
 cp $imageFile $orginImg"hd".jpg
 
-cp $imageFile $orginImg.jpg
+#cp $imageFile $orginImg.jpg
 #略缩图 280*350
-convert -sample 25%x25% $orginImg.jpg $orginImg.jpg
+$convert $imageFile -sample 25%x25% $orginImg.jpg
+
 
 echo $imageFile"---"$saveDoc/$documentNameNow/$imgFileName.jpg
 
@@ -64,7 +67,7 @@ echo $imageFile"---"$saveDoc/$documentNameNow/$imgFileName.jpg
 #判断是不是保存够数 == 006
 bijioa=${baseImgNames[$timeDocNum]}
 echo $bijioa"判断是不是保存够数"
-sheding=005
+
 if [ $bijioa == $sheding  ]
 then
 
