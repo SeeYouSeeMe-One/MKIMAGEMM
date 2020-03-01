@@ -1,11 +1,11 @@
 {
 "code": 200,
-"onlineBool":true,
+"onlineBool":false,
+
+"isShowHD":true,
 
 "min":20200000000,
 "max":20200000066,
-
-"isShowHD":true,
 
 "imgShowCellType":5,
 "imgShowPage":6,
@@ -33,6 +33,7 @@
 "refresh_F_title":"下拉可以获取新纪元图片",
 "refresh_F_content":"已经是历史根部了",
 "rithtMoreText":"有新图片更新",
+"downPageCenterText":"在线观看惊喜不断\n下载视频福利链接，下载完毕后，网络视频文件夹查看",
 
 
 "imgWatermark":"陌开心扉陌开视频",
