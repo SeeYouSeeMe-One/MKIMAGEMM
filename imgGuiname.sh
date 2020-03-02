@@ -2,17 +2,17 @@
 
 
 
-echo '📁要修改的文件夹地址'
-changeDoc=/Users/xushiyou/Desktop/meinvD
+#echo '📁要修改的文件夹地址'
+#changeDoc=/Users/xushiyou/Desktop/meinvD
 
-echo '📁要保存到的目录'
-saveDoc=/Users/xushiyou/Desktop/saveImg
+#echo '📁要保存到的目录'
+#saveDoc=/Users/xushiyou/Desktop/saveImg
 
-#echo '📁拖入要修改的文件夹地址'
-#read changeDoc
-#
-#echo '📁拖入要保存到的目录'
-#read saveDoc
+echo '📁拖入要修改的文件夹地址'
+read changeDoc
+
+echo '📁拖入要保存到的目录'
+read saveDoc
 
 
 
