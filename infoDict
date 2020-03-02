@@ -2,7 +2,6 @@
 "code":200,
 
 "onlineBool":true,
-
 "isShowHD":true,
 
 "min":20200000000,
@@ -15,11 +14,9 @@
 "imgShowType":2,
 "freeNumber":3,
 
-
 "imgWatermarkFont":8,
 "imgWatermarkWidth":100,
 "imgWatermarkHeight":20,
-
 
 "BlurImage1":8,
 "BlurImage2":3,
