@@ -1,7 +1,7 @@
 {
 "code":200,
 
-"onlineBool":true,
+"onlineBool":false,
 "isShowHD":true,
 
 "min":20200000000,
@@ -29,10 +29,10 @@
 "loadErrorHud":"升级VIP，提升网速",
 "refresh_H_title":"每夜都有更新",
 "refresh_H_content":"动不了了，已经是极限了",
-"refresh_F_title":"下拉可以获取新纪元图片",
-"refresh_F_content":"已经是历史根部了",
+"refresh_F_title":"已经是历史根部了",
+"refresh_F_content":"下拉获取新纪元图片",
 "rithtMoreText":"有新图片更新",
-"downPageCenterText":"在线观看惊喜不断\n下载视频福利链接，下载完毕后，网络视频文件夹查看",
+"downPageCenterText":"在线观看惊喜不断！视频福利链接排期发放。\n下载完毕后，网络视频文件夹查看",
 
 
 "imgWatermark":"陌开心扉陌开视频",
