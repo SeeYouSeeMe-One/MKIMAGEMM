@@ -29,6 +29,7 @@
 "netWorking":"https://www.baidu.com",
 "downWorking":"https://v-cdn.zjol.com.cn/280443.mp4",
 
+"loadErrorHud":"升级VIP，提升网速",
 "refresh_H_title":"每夜都有更新",
 "refresh_H_content":"动不了了，已经是极限了",
 "refresh_F_title":"下拉可以获取新纪元图片",
