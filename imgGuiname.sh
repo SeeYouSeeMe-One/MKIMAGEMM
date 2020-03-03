@@ -20,7 +20,7 @@ read saveDoc
 baseImgNames=("000" "001" "002" "003" "004" "005")
 sheding=005
 #  从这个文件夹名称开始
-documentNameNow=20200000146
+documentNameNow=20200000841
 #单个文件夹内记录保存
 timeDocNum=0
 
