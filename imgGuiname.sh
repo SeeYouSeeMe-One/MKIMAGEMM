@@ -17,10 +17,10 @@ read saveDoc
 
 
 #每个文件夹内的图片内容、个数
-baseImgNames=("000" "001" "002" "003" "004" "005")
-sheding=005
+baseImgNames=("000" "001" "002" "003" "004" "005" "006" "007" "008")
+sheding=008
 #  从这个文件夹名称开始
-documentNameNow=20200000841
+documentNameNow=20200000000
 #单个文件夹内记录保存
 timeDocNum=0
 
