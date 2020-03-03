@@ -5,14 +5,14 @@
 "isShowHD":true,
 
 "min":20200000000,
-"max":20200000066,
+"max":20200001324,
 
 "imgShowCellType":5,
 "imgShowPage":6,
 "showCellOfNum":4,
 
 "imgShowType":2,
-"freeNumber":3,
+"freeNumber":6,
 
 "imgWatermarkFont":8,
 "imgWatermarkWidth":100,

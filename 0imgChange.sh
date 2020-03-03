@@ -43,7 +43,7 @@ echo "📁${creat0}---已经存在"
 fi
 
 #遍历当前文件夹下的图片
-for imageFile in $changeDoc/*.jpg
+for imageFile in $changeDoc/* -name "*.png" -or -name "*.jpg" -or -name "*.jpeg"  -or -name "*.gif"
 
 do
 
